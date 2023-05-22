@@ -1,0 +1,40 @@
+﻿namespace DelegatePart1App
+{
+    internal class Program
+    {
+        public delegate void Mydel(int n1,int n2);
+        public void Add(int num1,int num2)
+        {
+            int result = 0;
+            result = num1+ num2;
+            Console.WriteLine($"The sum of {num1} and {num2} is {result}");
+        }
+        public void Multiply(int num1, int num2)
+        {
+            int result = 0;
+            result = num1 * num2;
+            Console.WriteLine($"The product of {num1} and {num2} is {result}");
+        }
+        public void Subtract(int num1, int num2)
+        {
+            int result = 0;
+            result = num1 - num2;
+            Console.WriteLine($"The balance of {num2} subtracted from {num1} is {result}");
+
+        }
+        public void Divide(int num1, int num2)
+        {
+            int result = 0;
+            result = num1 / num2;
+            Console.WriteLine($"The result of {num1} divided by {num2} is {result}");
+        }
+        static void Main(string[] args)
+        {
+            Program program = new Program();
+            Mydel del = new Mydel(program.Add);
+            User user = new User();
+            user.Calculate(del);
+            Console.ReadKey();
+        }
+    }
+}
