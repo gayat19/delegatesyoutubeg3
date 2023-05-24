@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        public delegate void Mydel(int n1,int n2);
+        public delegate void Mydel<T>(T n1,T n2);
         public void Add(int num1,int num2)
         {
             int result = 0;
@@ -31,7 +31,7 @@
         static void Main(string[] args)
         {
             Program program = new Program();
-            Mydel del = new Mydel(program.Add);
+            Mydel<int> del = new Mydel<int>(program.Add);
             User user = new User();
             user.Calculate(del);
             Console.ReadKey();

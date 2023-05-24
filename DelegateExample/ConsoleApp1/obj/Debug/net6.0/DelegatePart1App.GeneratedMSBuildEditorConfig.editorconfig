@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DelegatePart1App
-build_property.ProjectDir = E:\New folder\GitHubProj\DelegateExample\DelegatePart1App\
+build_property.ProjectDir = E:\New folder\GitHubProj\DelegateExample\ConsoleApp1\

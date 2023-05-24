@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qvroerJ2JPj5DDub2DrONyq1NfTwtcf6atgP/BU5m+AXffSiCK/p/dsjNr3sw5Goy8f9v0uWs5TOS3bH5gif0A==",
+  "dgSpecHash": "AjIjGx+yMXAmP6ki6Sz7plP/IW5QwjEZ91Xqjmn6q5+r1H0GCmKj72cVaS2GYw6fD+/vwwP0MU2+G40hCAYRpA==",
   "success": true,
-  "projectFilePath": "E:\\New folder\\GitHubProj\\DelegateExample\\DelegatePart1App\\DelegatePart1App.csproj",
+  "projectFilePath": "E:\\New folder\\GitHubProj\\DelegateExample\\ConsoleApp1\\DelegatePart1App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

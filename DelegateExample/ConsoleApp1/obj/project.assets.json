@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\New folder\\GitHubProj\\DelegateExample\\DelegatePart1App\\DelegatePart1App.csproj",
+      "projectUniqueName": "E:\\New folder\\GitHubProj\\DelegateExample\\ConsoleApp1\\DelegatePart1App.csproj",
       "projectName": "DelegatePart1App",
-      "projectPath": "E:\\New folder\\GitHubProj\\DelegateExample\\DelegatePart1App\\DelegatePart1App.csproj",
+      "projectPath": "E:\\New folder\\GitHubProj\\DelegateExample\\ConsoleApp1\\DelegatePart1App.csproj",
       "packagesPath": "C:\\Users\\gayat\\.nuget\\packages\\",
-      "outputPath": "E:\\New folder\\GitHubProj\\DelegateExample\\DelegatePart1App\\obj\\",
+      "outputPath": "E:\\New folder\\GitHubProj\\DelegateExample\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

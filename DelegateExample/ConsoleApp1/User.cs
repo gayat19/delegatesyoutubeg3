@@ -9,7 +9,7 @@ namespace DelegatePart1App
     internal class User
     {
        Program program = new Program();
-        public void Calculate(Program.Mydel mydel)
+        public void Calculate(Program.Mydel<int> mydel)
         {
             int num1, num2;
             Console.WriteLine("Please enter the first number");
