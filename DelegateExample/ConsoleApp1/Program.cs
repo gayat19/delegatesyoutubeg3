@@ -31,7 +31,8 @@
         static void Main(string[] args)
         {
             Program program = new Program();
-            Mydel<int> del = new Mydel<int>(program.Add);
+            //Mydel<int> del = new Mydel<int>(program.Add);
+            Mydel<int> del = new Mydel<int>((num1,num2)=> Console.WriteLine($"The sum of {num1} and {num2} is {num1+num2}"));
             User user = new User();
             user.Calculate(del);
             Console.ReadKey();
