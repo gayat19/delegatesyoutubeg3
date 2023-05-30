@@ -1,0 +1,15 @@
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\bin\Debug\net6.0\PredicateExample.exe
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\bin\Debug\net6.0\PredicateExample.deps.json
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\bin\Debug\net6.0\PredicateExample.runtimeconfig.json
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\bin\Debug\net6.0\PredicateExample.dll
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\bin\Debug\net6.0\PredicateExample.pdb
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\obj\Debug\net6.0\PredicateExample.csproj.AssemblyReference.cache
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\obj\Debug\net6.0\PredicateExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\obj\Debug\net6.0\PredicateExample.AssemblyInfoInputs.cache
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\obj\Debug\net6.0\PredicateExample.AssemblyInfo.cs
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\obj\Debug\net6.0\PredicateExample.csproj.CoreCompileInputs.cache
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\obj\Debug\net6.0\PredicateExample.dll
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\obj\Debug\net6.0\refint\PredicateExample.dll
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\obj\Debug\net6.0\PredicateExample.pdb
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\obj\Debug\net6.0\PredicateExample.genruntimeconfig.cache
+E:\New folder\GitHubProj\PredicateExample\PredicateExample\obj\Debug\net6.0\ref\PredicateExample.dll

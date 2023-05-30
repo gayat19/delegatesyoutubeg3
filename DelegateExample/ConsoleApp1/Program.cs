@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        public delegate void Mydel<T>(T n1,T n2);
+        //public delegate void Mydel<T>(T n1,T n2);
         public void Add(int num1,int num2)
         {
             int result = 0;
@@ -32,7 +32,9 @@
         {
             Program program = new Program();
             //Mydel<int> del = new Mydel<int>(program.Add);
-            Mydel<int> del = new Mydel<int>((num1,num2)=> Console.WriteLine($"The sum of {num1} and {num2} is {num1+num2}"));
+            //Mydel<int> del = new Mydel<int>((num1,num2)=> Console.WriteLine($"The sum of {num1} and {num2} is {num1+num2}"));
+            //Action<int,int> del = new Action<int, int>((num1, num2) => Console.WriteLine($"The sum of {num1} and {num2} is {num1 + num2}"));
+            Func<int, int,int> del = new Func<int, int,int>((num1, num2) => (num1+num2));
             User user = new User();
             user.Calculate(del);
             Console.ReadKey();
